@@ -1,0 +1,29 @@
+Meeting: Leave Request Process Review
+Date: 14 Aug 2026
+Attendees: HR Manager, IT Lead, 2x Dept Head
+
+HR says current process is email based. Employee emails supervisor,
+supervisor forwards to HR, HR checks leave balance manually in the
+spreadsheet, then updates the HRIS.
+
+Main complaint - nobody knows where the request is. Employees ask HR,
+HR asks supervisor. Takes 3-4 days usually.
+
+Dept Head A says sometimes requests get approved twice because employee
+resends when there is no reply.
+
+HR wants a system where employee submits and can see status.
+
+Discussion about approval levels. HR Manager said anything over 5 days
+should go to Dept Head. Dept Head B said it should be 3 days for his
+team because of shift coverage. Not resolved.
+
+IT Lead asked about leave balance - is it calculated or stored?
+HR said stored in spreadsheet, updated monthly. IT said this needs to
+be in the system. HR agreed but said the historical data is messy.
+
+Someone mentioned emergency leave should skip approval. Not discussed
+further.
+
+Action: HR to send current leave policy document.
+Next meeting: TBD
