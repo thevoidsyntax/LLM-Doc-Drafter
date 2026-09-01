@@ -70,6 +70,8 @@ python drafter.py --input examples/example-meeting.txt --format json --output dr
 }
 ```
 
+| LLM API integration | Written and dry-run tested. Not yet run against the live API. |
+
 Terms in the glossary are passed to the model with instructions to keep the original term and treat the definition as context.
 
 ## Cost
