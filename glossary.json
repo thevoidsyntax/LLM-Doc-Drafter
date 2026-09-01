@@ -1,0 +1,9 @@
+{
+  "nota dinas": "internal memo between departments, formal, requires signature from department head",
+  "disposisi": "routing instruction written by a superior on an incoming document, directs who handles it next",
+  "SIT": "System Integration Testing, performed by IT before user testing",
+  "UAT": "User Acceptance Testing, performed by business users, gates go-live",
+  "BRD": "Business Requirements Document",
+  "FSD": "Functional Specification Document",
+  "hypercare": "elevated support period immediately after go-live, typically two weeks"
+}
